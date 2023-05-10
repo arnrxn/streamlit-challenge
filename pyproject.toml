@@ -9,6 +9,7 @@ packages = [{include = "streamlit_challenge"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 streamlit = "^1.21.0"
+streamlit-elements = "^0.1.0"
 
 
 [tool.poetry.group.dev.dependencies]

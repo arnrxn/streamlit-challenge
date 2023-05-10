@@ -10,6 +10,8 @@ packages = [{include = "streamlit_challenge"}]
 python = "^3.10"
 streamlit = "^1.21.0"
 streamlit-elements = "^0.1.0"
+streamlit-shap = "^1.0.2"
+xgboost = "^1.7.5"
 
 
 [tool.poetry.group.dev.dependencies]
